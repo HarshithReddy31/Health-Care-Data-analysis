@@ -49,6 +49,6 @@ View Dashboard Here :
 
 # Author
 👤 Sai Harshith Reddy Gaddamidhi
-🔗 LinkedIn Profile :
+🔗 LinkedIn Profile : www.linkedin.com/in/gaddamidhi
 📧 reddysaiharshith3131@gmail.com
 
