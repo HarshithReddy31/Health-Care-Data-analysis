@@ -40,7 +40,7 @@ Time-Based Trends:
 * Wait times average around 35.26 minutes.
 
 # Live demo
-View Dashboard Here : 
+View Dashboard Here : https://app.powerbi.com/reportEmbed?reportId=c4874d4d-9222-4bd3-98ee-c46933e14287&autoAuth=true&ctid=b5b2263d-68aa-453e-b972-aa1421410f80
 
 # Future Improvements
 * Integrating real-time data using APIs.
